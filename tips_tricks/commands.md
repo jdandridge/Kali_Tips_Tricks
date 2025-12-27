@@ -15,7 +15,7 @@ cd
 ===
 
 Go back to your previous directroy
-    $ cd -
+    $ cd
 
 Go back home
     $ cd ~
