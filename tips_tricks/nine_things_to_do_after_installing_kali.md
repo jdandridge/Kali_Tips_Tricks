@@ -53,7 +53,7 @@
 ## 9. Installing Kali Metapackages
     $ sudo kali-tweaks
 
-[![Screenshoot](C:\Users\jdand\Documents\GitHub\Kali_Tips_Tricks\kali_tweaks_1.png)]
+![Screenshoot](C:\Users\jdand\Documents\GitHub\Kali_Tips_Tricks\kali_tweaks_1.png)
 
 
 
