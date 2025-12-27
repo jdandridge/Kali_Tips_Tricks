@@ -13,17 +13,19 @@ plocate
 
 cd
 ===
+
 Go back to your previous directroy
     $ cd -
 
 Go back home
     $ cd ~
-    
+
 Go to the main partition of operationg system
     $ cd /
 
 ip a / ifconfig / hostname
 ===
+
 Will return your ip address - pen test
     $ ip a
     $ ifconfig
@@ -31,6 +33,7 @@ Will return your ip address - pen test
 
 (>/>>)
 ===
+
 This command (>>) will put the information on the file and append.The (>) command will override the file
     $ touch myfile.txt
     $ echo "this is my text" >> myfile.txt
