@@ -15,7 +15,7 @@ cd
 ===
 Go back to your previous directroy
     $ cd -
-Go back home / keyborad shortcut "FN + Shift + ESC"
+Go back home
     $ cd ~
 Go to the main partition of operationg system
     $ cd /
