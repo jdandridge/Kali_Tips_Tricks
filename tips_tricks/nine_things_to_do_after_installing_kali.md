@@ -1,7 +1,7 @@
 # ❗️❗️❗️9 Things To Do After Installing Kali Linux❗️❗️❗️
 - 📌 Perfom these actions before connecting to the internet. Connect on 8 before update and upgrade
 
-## ✅️ 1. Change Hostname
+## ✅️ 1. <span style="color:dodgerblue">Change Hostname</span>
     $ whatis hostnamectl
     $ sudo hostnamectl set-hostname Demo
 ### 📝 Use nano and change (kali) to (Demo) in the /etc/hosts file
@@ -10,7 +10,7 @@
 
 ## ✅️ 2. Create New User - Hit enter to bypass the value for default
     $ sudo adduser goku
-### 📝 *Check on new user
+### 📝 Check on new user
     $ cat /etc/passwd | grep goku
     $ ls /home
     $ cat /etc/passwd
