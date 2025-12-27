@@ -13,7 +13,7 @@ plocate
 
 cd
 ===
-Go back to your previous directroy/folder
+Go back to your previous directroy
     $ cd -
 Go back home / keyborad shortcut "FN + Shift + ESC
     $ cd ~
