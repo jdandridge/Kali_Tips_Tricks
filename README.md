@@ -39,3 +39,12 @@ You can replace ``upgrade -y`` with your desired project name.
 ✅️ **Check**, 💡 **Idea**, 📝 **Note**,
 ⚠️ **Warning**, ❗️**Important**, 📌 **Important**,
 🚨 **Warning**, ⛔️ **Error**, ❌ **Error**
+
+🔴 **Red** 🔴, 🔵 **Blue** 🔵, ⚪️ **White** ⚪️, br>gt;
+⚫ **Black** ⚫, 🟠 **Orange** 🟠, 🟡 **Yellow** 🟡, br>gt;
+🟢 **Green** 🟢, 🟣 **Purple** 🟣
+
+:heavy_check_mark: **Check**, :bulb: **Idea**, :pencil: **Note**,
+:warning: **Warning**, :exclamation: **Important**, :pushpin: **Important**,
+:rotating_light: **Warning**, :no_entry: **Error**, :x: **Error**
+

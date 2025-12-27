@@ -1,8 +1,8 @@
-<span style="color:dodgerblue">❗️❗️❗️9 Things To Do After Installing Kali Linux❗️❗️❗️</span>
+❗️❗️❗️9 Things To Do After Installing Kali Linux❗️❗️❗️
 ===
 - 📌 Perfom these actions before connecting to the internet. Connect on 8 before update and upgrade
 
-## ✅️ 1.Change Hostname</span>
+## ✅️ 1. Change Hostname</span>
     $ whatis hostnamectl
     $ sudo hostnamectl set-hostname Demo
 ### 📝 Use nano and change (kali) to (Demo) in the /etc/hosts file
