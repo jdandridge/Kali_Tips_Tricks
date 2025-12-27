@@ -52,8 +52,9 @@
 
 ## 9. Installing Kali Metapackages
     $ sudo kali-tweaks
-
-![Screenshoot](C:\Users\jdand\Documents\GitHub\Kali_Tips_Tricks\kali_tweaks_1.png)
+    - use space/enter to select
+    - tab to select Apply/Back
+    - select 802-11 and bluetooth
 
 
 
