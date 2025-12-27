@@ -18,7 +18,7 @@ Using this template to create a new Django app is easy::
 
     $ sudo apt upgrade -y
 
-(If this doesn't work on windows, replace `apt-install` with `sudo`)
+(If this doesn't work on windows, replace `apt-get` with `sudo`)
 
 You can replace ``upgrade -y`` with your desired project name.
 

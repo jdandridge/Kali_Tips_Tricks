@@ -1,11 +1,11 @@
 KeePassXC - Password Manager
 ===
     $ sudo apt install keepassxc
-
+***
 Terminal Multiplexer
 ===
     $ sudo apt install konsole -y
-
+***
 VS Code
 ===
 #### Copy the whole code and paste into terminal 1/2
@@ -20,7 +20,17 @@ VS Code
     $ sudo apt install apt-transport-https
     sudo apt update
     sudo apt install code
-
+***
 Pi_Apps
 ===
     $ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
+
+TLDR
+===
+    $ sudo apt install tealdeer
+    $ tldr --update
+
+PLOCATE
+===
+    $ sudo apt install plocate
+    $ sudo updatedb
