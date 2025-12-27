@@ -21,4 +21,6 @@ VS Code
     sudo apt update
     sudo apt install code
 
-    
+Pi_Apps
+===
+    $ wget -qO- https://raw.githubusercontent.com/Botspot/pi-apps/master/install | bash
