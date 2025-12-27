@@ -36,3 +36,6 @@ You can replace ``upgrade -y`` with your desired project name.
 ## Further Reading
 
 - [Google](https://google.com)
+✅️ **Check**, 💡 **Idea**, 📝 **Note**,
+⚠️ **Warning**, ❗️**Important**, 📌 **Important**,
+🚨 **Warning**, ⛔️ **Error**, ❌ **Error**
