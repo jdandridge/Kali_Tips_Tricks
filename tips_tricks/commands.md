@@ -27,7 +27,7 @@ Will return your ip address - pen test
     $ ifconfig
     $ hostname -I
 
->/>>
+(>/>>)
 ===
 This command (>>) will put the information on the file and append.The (>) command will override the file
     $ touch myfile.txt
